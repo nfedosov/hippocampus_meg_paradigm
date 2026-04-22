@@ -24,19 +24,19 @@ DEFAULTS = {
     "pause_dur": 6.0,
 
     # объекты
-    "objects_n": 4,
+    "objects_n": 3,
     "platform_r": 1.1,
     "platform_center_margin": 3.0,
     "platform_wall_margin": 2.8,
     "platform_min_dist_between": 4.2,
 
     # маршрут
-    "route_segments_min": 6,
-    "route_segments_max": 10,
-    "route_seg_len_min": 2.5,
-    "route_seg_len_max": 5.5,
-    "route_speed_min": 0.7,
-    "route_speed_max": 1.6,
+    "route_segments_min": 4,
+    "route_segments_max": 6,
+    "route_seg_len_min": 4,
+    "route_seg_len_max": 6,
+    "route_speed_min": 1.0,
+    "route_speed_max": 1.2,
     "turn_base_deg_per_sec": 45.0,
     "non_object_min_dist_mul": 2.5,
 
